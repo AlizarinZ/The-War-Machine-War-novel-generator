@@ -11,9 +11,9 @@ Including masterpieces by:
 
 And all the war novels available on wikiplots!
 
-[The entire War Machine's corpus] (https://github.com/AlizarinZ/The-War-Machine-War-novel-generator/blob/master/The%20War%20Machine_corpus-driven-narrative-generation-Alizarin's%20take.ipynb)
+[The entire War Machine's corpus](https://github.com/AlizarinZ/The-War-Machine-War-novel-generator/blob/master/The%20War%20Machine_corpus-driven-narrative-generation-Alizarin's%20take.ipynb)
 
-[The War Machine exported PDF] 
+[The War Machine exported PDF](https://github.com/AlizarinZ/The-War-Machine-War-novel-generator/blob/master/The%20War%20Machine_%20Code%20Generated%20Novel%20_%20Alizarin%20Waissberg.pdf) 
 
 [The War Machine exported HTML] 
 

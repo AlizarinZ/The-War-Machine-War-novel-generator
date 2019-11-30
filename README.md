@@ -1,13 +1,16 @@
-# A few simple corpus-driven approaches to narrative analysis and generation
+# The War Machine
+## War novel generator
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/aparrish/corpus-driven-narrative-generation/master)
+By [Alizarinz](http://www.alizarinz.com/)
 
-By [Allison Parrish](http://www.decontextualize.com/)
+Based on some of the best and most absurd war novels by mostly American authors + related handpicked literature.
 
-[This notebook](corpus-driven-narrative-generation.ipynb) is intended to show a
-few ways that you can go about creating new narratives from an existing corpus
-of narrative text using Python and a few readily-available Python libraries. It
-was created as tutorial for [Computational Approaches to
-Narrative](http://catn.decontextualize.com/), a class I teach at
-[ITP](http://itp.nyu.edu/).
+Including masterpieces by:
 
+### Bukowski  |  Heller  |  Vonnegut  |  Barth  |  Orwell  |  
+
+And all the war novels available on wikiplots!
+
+The code is based on 
+[A few simple corpus-driven approaches to narrative analysis and generation](https://github.com/aparrish/corpus-driven-narrative-generation/blob/master/corpus-driven-narrative-generation.ipynb) 
+notebook by [Allison Parrish](http://www.decontextualize.com/).

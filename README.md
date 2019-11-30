@@ -15,7 +15,7 @@ And all the war novels available on wikiplots!
 
 [The War Machine exported PDF](https://github.com/AlizarinZ/The-War-Machine-War-novel-generator/blob/master/The%20War%20Machine_%20Code%20Generated%20Novel%20_%20Alizarin%20Waissberg.pdf) 
 
-[The War Machine exported HTML] 
+[The War Machine exported HTML](https://github.com/AlizarinZ/The-War-Machine-War-novel-generator/blob/master/TheWarMachineCodeGeneratedNovelAlizarinWaissb.html)
 
 The code is based on 
 [A few simple corpus-driven approaches to narrative analysis and generation](https://github.com/aparrish/corpus-driven-narrative-generation/blob/master/corpus-driven-narrative-generation.ipynb) 
